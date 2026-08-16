@@ -9,7 +9,7 @@ A high-frequency event-driven algorithmic trading execution engine built in Pyth
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture 
 
 ```text
                   ┌──────────────────────────────────────────┐
